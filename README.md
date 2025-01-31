@@ -19,4 +19,6 @@ I have initial validation on it from Cursor, which I suppose uses it on fast-app
 
 
 ## My work is in progress
-I currently work on speculative editing along some other projects I do, currently exploring and experimenting in the notebook - 
+I currently work on speculative editing along some other projects I do, currently exploring and experimenting in the notebook at - notebooks/speculative-editing.ipynb
+
+
